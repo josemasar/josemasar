@@ -2,25 +2,25 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/joeSarrion?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FjoeSarrion&screen_name=joeSarrion)
 
-## I’m a Software Developer @ Aerospace company based in Berlin, Germany.  
+## Software Developer @ Aerospace company
 
-- After working intensively with Oracle databases and low code environments since 2018, I discovered my passion for coding in JavaScript. 
-- In August 2021, I achieved my career change as a full-time TypeScript Software Developer to build the frontend of internal executive tools.
-- I also build side projects with React, NextJS and RedwoodJS.  
+- After working with Oracle databases and low code environments since 2018, I discovered my passion for coding in JavaScript. 
+- In 2021, I achieved my career change as a full-time TypeScript Software Developer to build the frontend of executive tools.
+- I also build side projects with React, NextJS and RedwoodJS - have a look to my repos in Github!  
 - I have a bit of experience with Ruby on Rails and I’m currently discovering all new features in Rails 7. 
 - In new projects, I think it’s key to spend a bit of time thinking on the data model first!!  
-- My focus at work is to bring a positive attitude to the team, deliver a bit every day and keep my closer team mates highly motivated. 
+- My focus at work is to bring a positive attitude to the team, deliver a bit every day and keep my team mates highly motivated. 
 - I’m not scared about the unknown unknowns and I rather see them as an opportunity.
 - I improved my communication skills throughout the years and I like daily stand ups and share my knowledge.
 - In the past I acted as a customer interface in high demanding roles and I have negotiated with key suppliers.
-- I based my decisions on data and trends.
+- I base my decisions on data analysis and trends.
 - Get in touch!
 
 ### Connect with me:
 
-[<img align="left" alt="josemasar | Porfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="background-color:white;padding:22px;" />][website]
-[<img align="left" alt="josemasar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="background-color:white;padding:22px; />][twitter]
-[<img align="left" alt="josemasar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="background-color:white;padding:22px; />][linkedin]
+[<img align="left" alt="josemasar | Porfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="josemasar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="josemasar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
