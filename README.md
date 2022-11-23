@@ -1,6 +1,6 @@
 ### Hi there! I'm Josema Sarrión [Portfolio][website] 👋 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/joeSarrion?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FjoeSarrion&screen_name=joeSarrion)
+[![Twitter Follow](https://img.shields.io/twitter/follow/joeSarrion?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FjoeSarrion&screen_name=j_sarrion)
 
 ## Software Developer @ Aerospace company
 
@@ -42,5 +42,5 @@
 ---
 
 [website]: https://josemasar.vercel.app
-[twitter]: https://twitter.com/joeSarrion
+[twitter]: https://twitter.com/j_sarrion
 [linkedin]: https://linkedin.com/in/josemanuelsarrion
